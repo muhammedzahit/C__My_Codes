@@ -117,7 +117,6 @@ Kaca kadar goruntulemek istiyorsunuz ? 100
 
 
 */
-// MUHAMMET ZAHIT AYDIN 190201039
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
